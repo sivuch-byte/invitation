@@ -1,6 +1,6 @@
 @font-face {
   font-family: Ouvality;
-  scr: url(./assets/Ouvality.ttf);
+  scr: url(/assets/Ouvality.ttf);
 }
 h1 {
   text-align: center;
